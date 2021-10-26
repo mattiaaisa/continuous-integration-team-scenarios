@@ -33,4 +33,5 @@ describe('CI sequence', () => {
     expect( /.*sneaky\s+bug.*/gi.test(fileContents)).toBe(false);
   });
   
+  Commit da togliere
 });
