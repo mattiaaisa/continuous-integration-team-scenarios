@@ -34,4 +34,6 @@ describe('CI sequence', () => {
   });
   
   Commit da togliere
+   2
+   
 });
